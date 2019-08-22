@@ -1,0 +1,20 @@
+Petunjuk installasi
+- Create database dengan nama "db_inventory"
+- Import file sql yang saya sertakan yaitu "db_inventory.sql"
+
+Informasi Login
+- Superadmin
+    -> admin@admin.com
+    -> password
+- Admin
+    -> agus.firman@gmail.com 
+    -> admin123
+
+Fitur
+- Mengelola data user => permission superadmin 
+- Mengelola data barang => permision superadmin(Terdapat log history data), permission admin
+- User registasi => user default permission (admin)
+- Dashboard => grafik batang yang menampilkan jumlah stok selama berjalan yang dimana jika kondisinya => minimal stok baris dalam tabel akan secara otomatis warna merah
+- Laporan data barang export to PDF and Excell
+- Rest Server API 
+
