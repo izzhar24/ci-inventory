@@ -1,0 +1,21 @@
+- intermediete :
+Buat sistem inventory dengan fitur: 
+ 1. login
+ 2. registrasi
+ 3. update profil
+ 4. dashboard => barchart jumlah barang perbulan, 
+ 5. CRUD, Report excel, Pdf
+ 6. List user :
+    - Super admin :
+        -> mengelola user
+        -> mengelola data
+    - Admin :
+        -> mengelola data 
+            ->log history 
+                -> create date
+                -> last date
+                -> create by
+                -> update by serta security url 
+                -> inject script input
+- Advance : 
+    Kerjakan seperti diatas dengan dengan tambahan menggunakan API
